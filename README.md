@@ -1,6 +1,6 @@
 # 📬 AI Journal Workflow
 
-> 基于 **Gmail API + Gemini AI** 的学术投稿自动化工作流系统
+> 基于 **Gmail API + Gemini AI** 的投稿自动化工作流系统
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
