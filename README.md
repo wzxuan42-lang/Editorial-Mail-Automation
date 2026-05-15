@@ -273,7 +273,7 @@ tail -f logs/app.log
 
 ---
 
-## 📈 后续扩展建议
+## 📈 正在进行的扩展方向
 
 - [ ] 添加 Web UI（Flask/FastAPI）替代命令行
 - [ ] 支持更多邮件服务（Outlook、QQ 邮箱）
